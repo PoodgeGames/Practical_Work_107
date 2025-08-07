@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UE5Projects/Practical_Work_107/Content/Practical_Work_107/Objects/M_AILada.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/Practical_Work_107/Objects/SM_AILada.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TH/SVQZ3CFG3ZM2F8ZWBKFBRT.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/Practical_Work_107/Objects/T_AILada_D.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/Practical_Work_107/Objects/T_AILada_E.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/Practical_Work_107/Objects/T_AILada_N.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/Practical_Work_107/Objects/T_AILada_ROM.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/Practical_Work_107/Blueprints/BP_AILada.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ZO/XMOYBLUG7IY536ZANBQNY8.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3Z/7U3QCDOWIA27AQRITZLLIX.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CJ/QVASSZXV0YPJG9TOTLLZQH.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/UE5Projects/Practical_Work_107/Content/Practical_Work_107/Blueprints/AI_Lada.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/Practical_Work_107/Objects/M_Light_Lada.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/Practical_Work_107/Objects/T_Light_E.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/MD/MD7E4XB6UAX0IP11EHBP0O.uasset",
+				"C:/UE5Projects/Practical_Work_107/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+			]
+		}
+	]
+}
